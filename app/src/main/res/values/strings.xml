@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RemoteControlPC</string>
+    <string name="btnPausePlay_name">Пауза</string>
+    <string name="btnReward_name">Назад</string>
+    <string name="btnForward_name">Вперёд</string>
+    <string name="btnVolumeUp_name">Громче</string>
+    <string name="btnVolumeDown_name">Тише</string>
+    <string name="btnOffPC_name">Выключить</string>
 </resources>
